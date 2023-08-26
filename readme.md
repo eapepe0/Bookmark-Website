@@ -14,8 +14,8 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina](https://guitar-la-remix-puce.vercel.app/)
-[Link a la pagina marcada](https://guitar-la-remix-puce.vercel.app/)
+[Link a la pagina](https://main--superlative-creponne-a19a47.netlify.app/)
+[Link a la pagina marcada](https://64ea52bb067a026e0b26a61e--lucent-alfajores-a202b6.netlify.app/)
 
 ## Correr Tailwind
 
